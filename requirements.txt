@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-ollama
+langchain-community
+langgraph
+langsmith
+crewai
+duckduckgo-search
+pydantic
+python-dotenv
+ddgs
+reportlab
